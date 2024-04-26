@@ -11,4 +11,5 @@ ORPO는 새로운 미세조정(fine-tuning) 기술로, 전통적인 supervised f
 
 ![image](https://github.com/jinuk0211/rlfh/assets/150532431/b7e33762-b9d6-475f-8f46-694f9167d312)
 
-![Uploading image.png…]()
+![image](https://github.com/jinuk0211/rlfh/assets/150532431/5ba507a1-6bcf-4574-81a1-890b3df53d39)
+
